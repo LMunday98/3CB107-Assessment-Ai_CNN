@@ -6,7 +6,7 @@ The practical assignment requires you to develop an AI application in Python. Yo
 
 ## Installation
 
-1. Download the Hands dataset from 'https://drive.google.com/open?id=1KcMYcNJgtK1zZvfl_9sTqnyBUTri2aP2' and unzip the folder into the '/project' directory.
+1. Download the Hands dataset from 'https://drive.google.com/open?id=1KcMYcNJgtK1zZvfl_9sTqnyBUTri2aP2' and unzip the folder into the '/project' directory, as shown in the project structure below.
 
 2. Run the 'create_dataset.ipynb' file to parse the dataset into an 80-20 split between training and validation.
 
