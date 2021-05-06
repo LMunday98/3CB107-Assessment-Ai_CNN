@@ -12,7 +12,7 @@ The practical assignment requires you to develop an AI application in Python. Yo
 
 3. Set the 'model_name' and 'hand_type' variables in the 'train_model.ipynb' file and run it.
 
-Any trained models will be saved into the generated 'trained_models' folder
+Any trained models will be saved into the generated '/trained_models' directory.
 
 ## Links
 
